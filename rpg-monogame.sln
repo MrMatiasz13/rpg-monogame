@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpg-monogame", "rpg-monogame.csproj", "{348C2058-FA03-9346-DC14-162E58501DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348C2058-FA03-9346-DC14-162E58501DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348C2058-FA03-9346-DC14-162E58501DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348C2058-FA03-9346-DC14-162E58501DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348C2058-FA03-9346-DC14-162E58501DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40C8880-B2E5-4E87-83E3-B3295A5B28C3}
+	EndGlobalSection
+EndGlobal
